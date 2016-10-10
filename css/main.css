@@ -13,7 +13,11 @@ html, body {
 }
 h4 {
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
+}
+
+li {
+    font-size: 20px;
 }
 
 h6 {
@@ -21,6 +25,48 @@ h6 {
     font-family: cursive;
     
 }
+
+.buttoncenter  {
+    text-align: center;
+}
+
+.imagecontainer {
+     width: 780px;
+        background: #FFF url(picture.jpg) no-repeat center top;
+        margin: 0 auto;
+        height:100%;
+    padding-bottom: 150px;
+    font-size: 90px;
+}
+
+.centertext {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 20px;
+}
+
+.backcolor {
+        background: #ededed;
+        padding-top: 50px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;2
+}
+
+.colors {
+  background: #ededed;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 
 img {
      display: block;
@@ -31,6 +77,13 @@ img {
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+}
+.imageresizing {
+    height: 100px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 .dropdown {
